@@ -37,3 +37,8 @@ Data visualization helps analysts quickly spot patterns and trends in the data. 
 
 ### Conclusion
 This lab comprehensively teaches the steps of reading, processing, transforming, and visualizing data using Apache Spark and PySpark within the Microsoft Fabric environment. This process is an essential skill for data engineers and data scientists and enables efficient work with large datasets.
+
+### 👤 Author >> Sefa Öztürk
+IT Trainee | Azure Data Engineer in progress
+
+📇 LinkedIn: https://www.linkedin.com/in/sefa-ozturk1972
